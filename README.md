@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋 my name is Hara!
+I'm a front-end web developer based in Toronto. I enjoy problem-solving and building user-friendly & functional websites. 
 
-<!--
-**harah24/harah24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Facts about me: 
+* 🌍 I'm based in Toronto
+* 🧠 I'm currently learning React & firebase
+* 🚀 I'm working on an agency-style React App
+* 💻 Check out my portfolio at [haracodes.com](https://haracodes.com)
+* 💬 If you'll like to chat connect with me on [LinkedIn](https://www.linkedin.com/in/harahordofa/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills:
+<div align="left">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST"/>
+</div>
