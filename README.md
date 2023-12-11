@@ -3,9 +3,8 @@ I'm a front-end web developer based in Toronto. I enjoy problem-solving and buil
 
 #### Facts about me: 
 * 🌍 I'm based in Toronto
-* 🧠 I'm currently learning Node.js & Express
-* 🚀 I'm working on React projects
-* 💻 Check out my portfolio at [haracodes.com](https://haracodes.com)
+* 🧠 I'm currently learning Next.js & TypeScript
+* 🚀 I'm working on full-stack projects
 * 💬 If you'll like to chat connect with me on [LinkedIn](https://www.linkedin.com/in/harahordofa/) 
 
 #### Skills:
